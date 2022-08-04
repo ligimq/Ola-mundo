@@ -35,4 +35,4 @@ Lista de tarefas:
 
 ![gatinho-ico](https://user-images.githubusercontent.com/110419036/182931597-e9069b72-4dc0-4906-a980-d6f4957651a3.png)
 
-[Acesse meu GitHub](https://ligimq.github.io)
+[Acesse meu GitHub](https://github.com/ligimq)
